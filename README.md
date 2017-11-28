@@ -1,2 +1,2 @@
-# algorithms homewroks
+# algorithms homeworks
 by Tadeus Tunkevic (GU)
