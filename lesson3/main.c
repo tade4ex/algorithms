@@ -15,7 +15,7 @@ void t_buble_sort (int * arr, int len) {
 		if (not_change) break;
 		op++;
 	}
-	printf("len = %d, operaions=%d\n", len, op);
+	// printf("len = %d, operaions=%d\n", len, op);
 }
 
 void t_shaker_sort (int * arr, int len) {
@@ -36,7 +36,7 @@ void t_shaker_sort (int * arr, int len) {
 			op+= 3;
 		}
 	}
-	printf("len = %d, operaions=%d\n", len, op);
+	// printf("len = %d, operaions=%d\n", len, op);
 }
 
 int t_bin_search (int f, int * arr, int len) {
