@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <assert.h>
+#include <string.h>
 
 void t_swap(int *a, int *b) {
    *a = *a ^ *b;
